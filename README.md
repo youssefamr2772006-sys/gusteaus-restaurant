@@ -2,6 +2,8 @@
 
 A restaurant landing page built with React and Vite.
 
+Live site: https://youssefamr2772006-sys.github.io/gusteaus-restaurant/
+
 ## Development
 
 ```sh
