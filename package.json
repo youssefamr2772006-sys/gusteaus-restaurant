@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://github.com/youssefamr2772006-sys/gusteaus-restaurant",
+  "homepage": "https://youssefamr2772006-sys.github.io/gusteaus-restaurant/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
